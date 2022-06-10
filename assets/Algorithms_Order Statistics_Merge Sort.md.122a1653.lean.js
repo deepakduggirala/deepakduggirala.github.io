@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.5f69941c.js";const i='{"title":"Merge Sort","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithms/Order Statistics/Merge Sort.md"}',p={name:"Algorithms/Order Statistics/Merge Sort.md"},o=l("",4),e=[o];function t(c,r,F,D,y,A){return a(),n("div",null,e)}var f=s(p,[["render",t]]);export{i as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.5f69941c.js";const C='{"title":"Trie","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithms/Data Structures/Trie.md"}',p={name:"Algorithms/Data Structures/Trie.md"},o=l("",10),e=[o];function t(r,c,D,y,F,A){return a(),n("div",null,e)}var f=s(p,[["render",t]]);export{C as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.5f69941c.js";const i='{"title":"Binary Search","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithms/Binary Search.md"}',p={name:"Algorithms/Binary Search.md"},o=l("",4),e=[o];function t(c,r,D,y,C,A){return n(),a("div",null,e)}var d=s(p,[["render",t]]);export{i as __pageData,d as default};

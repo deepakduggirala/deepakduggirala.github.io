@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as o}from"./app.5f69941c.js";const d='{"title":"DFS","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithms/Graph/DFS.md"}',l={name:"Algorithms/Graph/DFS.md"},e=o("",4),p=[e];function t(r,c,i,D,F,y){return n(),a("div",null,p)}var A=s(l,[["render",t]]);export{d as __pageData,A as default};

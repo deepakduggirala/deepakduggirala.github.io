@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.5f69941c.js";const C='{"title":"BFS","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithms/Graph/BFS.md"}',p={name:"Algorithms/Graph/BFS.md"},o=l("",4),e=[o];function t(c,r,D,F,y,A){return a(),n("div",null,e)}var d=s(p,[["render",t]]);export{C as __pageData,d as default};
